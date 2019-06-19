@@ -12,7 +12,7 @@ Esse projeto utiliza as seguintes tecnologias:
 
 Como o servidor utiliza GraphQL, a documentação pode ser encontrada no próprio GraphQL Playground. Ele se encontra no endpoint /graphql, mas ao acessar o endpoint /, você será redirecionado automaticamente.
 
-O servidor pode ser acessado nesse endereço: http://backend-teste.rodrigorodrigues.dev
+O servidor pode ser acessado nesse endereço: https://backend-teste-nodejs.herokuapp.com/graphql
 
 ## Instalação
 
